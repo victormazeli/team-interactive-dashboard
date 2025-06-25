@@ -10,7 +10,7 @@ This Power BI dashboard is built on a synthetic healthcare dataset containing 55
 
 ---
 
-### 2. Medical Conditions Analytics
+### Medical Conditions Analytics
 
 **Goal:** Identify the most common medical conditions and understand their relation to patient demographics and outcomes.
 
