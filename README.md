@@ -10,20 +10,6 @@ This Power BI dashboard is built on a synthetic healthcare dataset containing 55
 
 ---
 
-## 🎯 Visualization Goals (Use Cases)
-
-### 1. Patient Demographics Overview
-
-**Goal:** Understand the distribution of patients by age, gender, and blood type.
-
-- **Why:** Helps plan medical resources, identify underserved demographics, and improve outreach strategies.
-- **Visuals:**
-  - Bar chart of gender distribution
-  - Age distribution using binned age groups
-  - Pie chart of blood type proportions
-
----
-
 ### 2. Medical Conditions Analytics
 
 **Goal:** Identify the most common medical conditions and understand their relation to patient demographics and outcomes.
